@@ -55,11 +55,7 @@ Initial model predicted **zero** employees would leave (0% recall on class 1) be
 
 ## 📈 Model Performance
 
-```
-Confusion Matrix:
-[[1686  580]   → Stayed: 1686 correct
- [ 175  559]]  → Left: 559 correctly identified ✅
-```
+<img width="320" height="240" alt="confusion_matrix" src="https://github.com/user-attachments/assets/bea3ec5e-2a49-40a7-97b3-efeccb8b8371" />
 
 - **Accuracy:** 75%
 - **Recall (at-risk employees):** 76%
